@@ -18,10 +18,22 @@ categories:
         url: https://www.bing.com/
         icon: fab fa-microsoft
         description: 微软搜索引擎
-      - name: Zhihu
+      - name: 搜狗
+        url: https://www.sogou.com/
+        icon: fas fa-search
+        description: 中文搜索服务
+      - name: 360 搜索
+        url: https://www.so.com/
+        icon: fas fa-compass
+        description: 360 搜索引擎
+      - name: 知乎
         url: https://www.zhihu.com/
         icon: fas fa-question-circle
         description: 中文问答社区
+      - name: Quora
+        url: https://www.quora.com/
+        icon: fas fa-question
+        description: 国际问答社区
       - name: Stack Overflow
         url: https://stackoverflow.com/
         icon: fab fa-stack-overflow
@@ -50,6 +62,18 @@ categories:
         url: https://poe.com/
         icon: fas fa-feather
         description: 多模型 AI 聚合平台
+      - name: Midjourney
+        url: https://www.midjourney.com/
+        icon: fas fa-image
+        description: AI 图像生成平台
+      - name: Hugging Face
+        url: https://huggingface.co/
+        icon: fas fa-smile
+        description: 开源模型与 AI 社区
+      - name: Kimi
+        url: https://kimi.moonshot.cn/
+        icon: fas fa-moon
+        description: 中文 AI 助手
 
   - name: 视频与内容
     icon: fas fa-play-circle
@@ -66,14 +90,26 @@ categories:
         url: https://www.douyin.com/
         icon: fas fa-video
         description: 短视频平台
+      - name: 快手
+        url: https://www.kuaishou.com/
+        icon: fas fa-film
+        description: 短视频与直播平台
       - name: 少数派
         url: https://sspai.com/
         icon: fas fa-newspaper
         description: 数字生活方式内容平台
-      - name: Juejin
+      - name: 掘金
         url: https://juejin.cn/
         icon: fas fa-pen-nib
         description: 开发者内容社区
+      - name: 36Kr
+        url: https://36kr.com/
+        icon: fas fa-newspaper
+        description: 创业与商业资讯平台
+      - name: 虎嗅
+        url: https://www.huxiu.com/
+        icon: fas fa-rss
+        description: 商业与科技资讯
 
   - name: 社交与社区
     icon: fas fa-users
@@ -98,6 +134,18 @@ categories:
         url: https://www.douban.com/
         icon: fas fa-film
         description: 书影音评分与社区
+      - name: 小红书
+        url: https://www.xiaohongshu.com/
+        icon: fas fa-heart
+        description: 生活方式与种草社区
+      - name: Facebook
+        url: https://www.facebook.com/
+        icon: fab fa-facebook
+        description: 国际社交网络
+      - name: LinkedIn
+        url: https://www.linkedin.com/
+        icon: fab fa-linkedin
+        description: 职业社交平台
 
   - name: 效率工具
     icon: fas fa-briefcase
@@ -114,6 +162,10 @@ categories:
         url: https://docs.qq.com/
         icon: fas fa-file-alt
         description: 在线文档协作平台
+      - name: 石墨文档
+        url: https://shimo.im/
+        icon: fas fa-file
+        description: 中文协作文档工具
       - name: Trello
         url: https://trello.com/
         icon: fab fa-trello
@@ -122,6 +174,14 @@ categories:
         url: https://slack.com/
         icon: fab fa-slack
         description: 团队沟通平台
+      - name: Asana
+        url: https://asana.com/
+        icon: fas fa-tasks
+        description: 项目协作工具
+      - name: Airtable
+        url: https://www.airtable.com/
+        icon: fas fa-table
+        description: 轻量数据库与协作工具
 
   - name: 邮箱与云盘
     icon: fas fa-envelope-open-text
@@ -138,6 +198,10 @@ categories:
         url: https://mail.qq.com/
         icon: fas fa-envelope
         description: 常用中文邮箱服务
+      - name: 网易邮箱
+        url: https://mail.163.com/
+        icon: fas fa-envelope-open
+        description: 中文邮箱服务
       - name: Google Drive
         url: https://drive.google.com/
         icon: fab fa-google-drive
@@ -146,6 +210,14 @@ categories:
         url: https://www.dropbox.com/
         icon: fab fa-dropbox
         description: 文件同步与共享服务
+      - name: OneDrive
+        url: https://onedrive.live.com/
+        icon: fab fa-microsoft
+        description: 微软云盘
+      - name: 百度网盘
+        url: https://pan.baidu.com/
+        icon: fas fa-cloud-upload-alt
+        description: 中文网盘服务
 
   - name: 开发效率
     icon: fas fa-code
@@ -158,10 +230,18 @@ categories:
         url: https://gitlab.com/
         icon: fab fa-gitlab
         description: DevOps 与代码托管平台
+      - name: Gitee
+        url: https://gitee.com/
+        icon: fas fa-code-branch
+        description: 中文代码托管平台
       - name: MDN Web Docs
         url: https://developer.mozilla.org/
         icon: fas fa-book
         description: Web 开发文档
+      - name: npm
+        url: https://www.npmjs.com/
+        icon: fab fa-npm
+        description: JavaScript 包管理平台
       - name: Vercel
         url: https://vercel.com/
         icon: fas fa-cloud
@@ -170,6 +250,10 @@ categories:
         url: https://www.cloudflare.com/
         icon: fas fa-shield-alt
         description: CDN、DNS 与 Pages 部署
+      - name: StackBlitz
+        url: https://stackblitz.com/
+        icon: fas fa-bolt
+        description: 在线开发环境
 
   - name: 设计与素材
     icon: fas fa-palette
@@ -194,6 +278,18 @@ categories:
         url: https://www.iconfont.cn/
         icon: fas fa-icons
         description: 图标资源库
+      - name: Font Awesome
+        url: https://fontawesome.com/
+        icon: fab fa-font-awesome
+        description: 图标库
+      - name: Freepik
+        url: https://www.freepik.com/
+        icon: fas fa-images
+        description: 设计素材平台
+      - name: Unsplash
+        url: https://unsplash.com/
+        icon: fas fa-camera
+        description: 免费图片资源
 
   - name: 学习与课程
     icon: fas fa-graduation-cap
@@ -218,6 +314,18 @@ categories:
         url: https://leetcode.com/
         icon: fas fa-code
         description: 编程练习平台
+      - name: LeetCode CN
+        url: https://leetcode.cn/
+        icon: fas fa-laptop-code
+        description: 中文刷题平台
+      - name: 菜鸟教程
+        url: https://www.runoob.com/
+        icon: fas fa-book-reader
+        description: 入门教程站点
+      - name: Khan Academy
+        url: https://www.khanacademy.org/
+        icon: fas fa-school
+        description: 免费学习平台
 
   - name: 购物与消费
     icon: fas fa-shopping-bag
@@ -238,7 +346,55 @@ categories:
         url: https://www.amazon.com/
         icon: fab fa-amazon
         description: 国际电商平台
-      - name: 小红书
-        url: https://www.xiaohongshu.com/
-        icon: fas fa-heart
-        description: 种草与消费内容平台
+      - name: 天猫
+        url: https://www.tmall.com/
+        icon: fas fa-store
+        description: 品牌电商平台
+      - name: 闲鱼
+        url: https://www.goofish.com/
+        icon: fas fa-fish
+        description: 二手交易平台
+      - name: 1688
+        url: https://www.1688.com/
+        icon: fas fa-warehouse
+        description: 批发采购平台
+      - name: eBay
+        url: https://www.ebay.com/
+        icon: fas fa-shopping-bag
+        description: 国际电商与拍卖平台
+
+  - name: 生活服务
+    icon: fas fa-map-marked-alt
+    sites:
+      - name: 高德地图
+        url: https://www.amap.com/
+        icon: fas fa-map
+        description: 地图与出行服务
+      - name: 百度地图
+        url: https://map.baidu.com/
+        icon: fas fa-map-marked
+        description: 中文地图服务
+      - name: 美团
+        url: https://www.meituan.com/
+        icon: fas fa-utensils
+        description: 本地生活服务平台
+      - name: 大众点评
+        url: https://www.dianping.com/
+        icon: fas fa-star
+        description: 餐饮与消费点评平台
+      - name: 携程
+        url: https://www.ctrip.com/
+        icon: fas fa-plane
+        description: 旅行与酒店预订平台
+      - name: 去哪儿
+        url: https://www.qunar.com/
+        icon: fas fa-suitcase
+        description: 旅行搜索平台
+      - name: 12306
+        url: https://www.12306.cn/
+        icon: fas fa-train
+        description: 火车票官方平台
+      - name: 滴滴出行
+        url: https://www.didiglobal.com/
+        icon: fas fa-taxi
+        description: 出行打车平台
