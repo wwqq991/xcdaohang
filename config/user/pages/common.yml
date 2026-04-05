@@ -82,6 +82,26 @@ categories:
         url: https://tongyi.aliyun.com/
         icon: fas fa-comments
         description: 阿里 AI 助手
+      - name: 豆包
+        url: https://www.doubao.com/
+        icon: fas fa-comment-alt
+        description: 字节跳动 AI 助手
+      - name: DeepSeek
+        url: https://www.deepseek.com/
+        icon: fas fa-brain
+        description: 通用 AI 助手与推理模型
+      - name: 智谱清言
+        url: https://chatglm.cn/
+        icon: fas fa-comments
+        description: 智谱 AI 助手
+      - name: 腾讯元宝
+        url: https://yuanbao.tencent.com/
+        icon: fas fa-gem
+        description: 腾讯 AI 助手
+      - name: 纳米 AI
+        url: https://www.n.cn/
+        icon: fas fa-microchip
+        description: 纳米 AI 搜索与助手平台
 
   - name: 视频与内容
     icon: fas fa-play-circle
@@ -127,6 +147,34 @@ categories:
         icon: fas fa-headphones
         description: 音乐平台
 
+  - name: 新闻资讯
+    icon: fas fa-newspaper
+    sites:
+      - name: 人民网
+        url: https://www.people.com.cn/
+        icon: fas fa-landmark
+        description: 综合新闻与时政资讯
+      - name: 央视网
+        url: https://www.cctv.com/
+        icon: fas fa-tv
+        description: 央视官方新闻与视频平台
+      - name: 网易新闻
+        url: https://news.163.com/
+        icon: fas fa-globe-asia
+        description: 综合新闻资讯平台
+      - name: 今日头条
+        url: https://www.toutiao.com/
+        icon: fas fa-bolt
+        description: 热点资讯聚合平台
+      - name: 澎湃新闻
+        url: https://www.thepaper.cn/
+        icon: fas fa-rss
+        description: 深度新闻与时事报道
+      - name: 参考消息
+        url: https://www.cankaoxiaoxi.com/
+        icon: fas fa-book-open
+        description: 国内外新闻参考资讯
+
   - name: 社交与社区
     icon: fas fa-users
     sites:
@@ -170,6 +218,14 @@ categories:
         url: https://discord.com/
         icon: fab fa-discord
         description: 社群交流平台
+      - name: 百度贴吧
+        url: https://tieba.baidu.com/
+        icon: fas fa-comments
+        description: 兴趣主题社区
+      - name: 吾爱破解
+        url: https://www.52pojie.cn/
+        icon: fas fa-unlock-alt
+        description: 技术交流与软件研究社区
 
   - name: 效率工具
     icon: fas fa-briefcase
@@ -258,6 +314,22 @@ categories:
         url: https://www.alipan.com/
         icon: fas fa-cloud-meatball
         description: 阿里云盘服务
+      - name: 22.do 临时邮箱
+        url: https://22.do/
+        icon: fas fa-inbox
+        description: 临时邮箱服务
+      - name: Mail.tm
+        url: https://mail.tm/zh/
+        icon: fas fa-envelope-open-text
+        description: 免费临时邮箱服务
+      - name: 临时邮
+        url: https://linshiyou.com/
+        icon: fas fa-paper-plane
+        description: 中文临时邮箱服务
+      - name: 临时邮箱
+        url: https://www.linshi-email.com/
+        icon: fas fa-at
+        description: 一次性邮箱服务
 
   - name: 开发效率
     icon: fas fa-code
@@ -482,6 +554,22 @@ categories:
   - name: 实用工具
     icon: fas fa-tools
     sites:
+      - name: 国内测速
+        url: https://test.ustc.edu.cn/
+        icon: fas fa-tachometer-alt
+        description: 中国科学技术大学网络测速
+      - name: 境外测速
+        url: https://fast.com/
+        icon: fas fa-gauge-high
+        description: Netflix 网络测速工具
+      - name: 草料二维码
+        url: https://cli.im/
+        icon: fas fa-qrcode
+        description: 文字与链接生成二维码
+      - name: Zoom Earth
+        url: https://zoom.earth/
+        icon: fas fa-cloud-sun-rain
+        description: 实时天气与卫星地图
       - name: TinyPNG
         url: https://tinypng.com/
         icon: fas fa-compress
@@ -522,6 +610,30 @@ categories:
         url: https://translate.google.com/
         icon: fas fa-language
         description: 多语言翻译服务
+      - name: 16Personalities
+        url: https://www.16personalities.com/ch/
+        icon: fas fa-user-circle
+        description: MBTI 人格测试工具
+      - name: IP111
+        url: https://www.ip111.cn/
+        icon: fas fa-network-wired
+        description: IP 查询与网络检测工具
+
+  - name: 创作工具
+    icon: fas fa-pen-fancy
+    sites:
+      - name: 哇哇写作
+        url: https://wawawriter.com/app/?utm_source=aiweb30
+        icon: fas fa-feather-alt
+        description: 在线写作与创作工具
+      - name: 会画 Partial Redraw
+        url: https://www.ihuiwa.com/workspace/partial-redraw?editType=eraser-pen&huiwaInviteCode=EMJZVL
+        icon: fas fa-paint-brush
+        description: AI 绘图与局部重绘工具
+      - name: Coze
+        url: https://www.coze.cn/overview?utm_medium=daohang&utm_source=plnav&utm_term=hw_coze_plnav
+        icon: fas fa-robot
+        description: AI Agent 与 Bot 搭建平台
 
   - name: 站长工具
     icon: fas fa-server
@@ -570,6 +682,10 @@ categories:
   - name: 资源发现
     icon: fas fa-compass
     sites:
+      - name: Get Cheap AI
+        url: https://www.getcheapai.com/zh-cn
+        icon: fas fa-tags
+        description: AI 工具与优惠资源发现
       - name: Product Hunt
         url: https://www.producthunt.com/
         icon: fas fa-rocket
@@ -610,6 +726,26 @@ categories:
         url: https://sspai.com/
         icon: fas fa-toolbox
         description: 工具与效率资源发现
+
+  - name: 软件分享
+    icon: fas fa-download
+    sites:
+      - name: 果核剥壳
+        url: https://www.ghxi.com/
+        icon: fas fa-apple-alt
+        description: 实用软件与资源分享
+      - name: 异次元软件世界
+        url: https://www.iplaysoft.com/
+        icon: fas fa-compact-disc
+        description: 精品软件与效率工具推荐
+      - name: 软仓
+        url: https://www.ruancang.net/
+        icon: fas fa-box-open
+        description: 软件资源分享站
+      - name: 系统库
+        url: https://www.xitongku.com/
+        icon: fas fa-desktop
+        description: 系统镜像与装机资源
 
   - name: 探索发现
     icon: fas fa-binoculars
