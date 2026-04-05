@@ -38,6 +38,9 @@ social:
   - name: Email
     url: mailto:xc-daohang@xczsbz.33mail.com
     icon: fas fa-envelope
+  - name: Blog
+    url: https://xc-blog.ccwu.cc/
+    icon: fas fa-pen-nib
 
 navigation:
   - name: 常用
