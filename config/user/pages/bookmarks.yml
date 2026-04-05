@@ -1,7 +1,6 @@
 title: 我的精选
 subtitle: 真实使用过或很好用的网站
 template: bookmarks
-
 categories:
   - name: 个人精选
     icon: fas fa-gem
@@ -37,10 +36,17 @@ categories:
             url: https://www.indiehackers.com/
             icon: fas fa-lightbulb
             description: 独立开发者社区
-
+          - name: ipdata
+            url: https://ipdata.co/
+            icon: fas fa-link
+            description: 检测IP的工具
       - name: 长期收藏
         icon: fas fa-globe
         sites:
+          - name: DNShe
+            url: https://www.dnshe.com/
+            icon: fas fa-link
+            description: 可以注册五个免费域名，邀请码是 FJ43DF00C4
           - name: Cloudflare Pages
             url: https://pages.cloudflare.com/
             icon: fas fa-cloud
@@ -53,7 +59,6 @@ categories:
             url: https://www.namecheap.com/
             icon: fas fa-link
             description: 域名注册与管理
-
       - name: 拼车代充
         icon: fas fa-coins
         sites:
@@ -69,7 +74,6 @@ categories:
             url: https://universalbus.cn/?s=vLu48tr20T
             icon: fas fa-ticket-alt
             description: 偶然发现的流媒体代充站
-
   - name: 可持续补充
     icon: fas fa-layer-group
     subcategories:

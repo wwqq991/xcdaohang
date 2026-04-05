@@ -1,7 +1,6 @@
 title: 常用网站
 subtitle: 覆盖日常高频访问的网站分类
 template: page
-
 categories:
   - name: 搜索与问答
     icon: fas fa-search
@@ -38,7 +37,6 @@ categories:
         url: https://stackoverflow.com/
         icon: fab fa-stack-overflow
         description: 程序员问答社区
-
   - name: AI 工具
     icon: fas fa-robot
     sites:
@@ -102,7 +100,6 @@ categories:
         url: https://www.n.cn/
         icon: fas fa-microchip
         description: 纳米 AI 搜索与助手平台
-
   - name: 视频与内容
     icon: fas fa-play-circle
     sites:
@@ -146,7 +143,6 @@ categories:
         url: https://y.qq.com/
         icon: fas fa-headphones
         description: 音乐平台
-
   - name: 新闻资讯
     icon: fas fa-newspaper
     sites:
@@ -174,7 +170,6 @@ categories:
         url: https://www.cankaoxiaoxi.com/
         icon: fas fa-book-open
         description: 国内外新闻参考资讯
-
   - name: 社交与社区
     icon: fas fa-users
     sites:
@@ -226,7 +221,6 @@ categories:
         url: https://www.52pojie.cn/
         icon: fas fa-unlock-alt
         description: 技术交流与软件研究社区
-
   - name: 效率工具
     icon: fas fa-briefcase
     sites:
@@ -270,7 +264,6 @@ categories:
         url: https://www.processon.com/
         icon: fas fa-project-diagram
         description: 思维导图与流程图工具
-
   - name: 邮箱与云盘
     icon: fas fa-envelope-open-text
     sites:
@@ -330,7 +323,6 @@ categories:
         url: https://www.linshi-email.com/
         icon: fas fa-at
         description: 一次性邮箱服务
-
   - name: 开发效率
     icon: fas fa-code
     sites:
@@ -374,7 +366,6 @@ categories:
         url: https://replit.com/
         icon: fas fa-laptop-code
         description: 在线编程平台
-
   - name: 设计与素材
     icon: fas fa-palette
     sites:
@@ -418,7 +409,6 @@ categories:
         url: https://www.pinterest.com/
         icon: fab fa-pinterest
         description: 视觉灵感收集平台
-
   - name: 学习与课程
     icon: fas fa-graduation-cap
     sites:
@@ -462,7 +452,6 @@ categories:
         url: https://www.cnki.net/
         icon: fas fa-book
         description: 学术检索平台
-
   - name: 购物与消费
     icon: fas fa-shopping-bag
     sites:
@@ -506,7 +495,6 @@ categories:
         url: https://www.vip.com/
         icon: fas fa-gift
         description: 特卖电商平台
-
   - name: 生活服务
     icon: fas fa-map-marked-alt
     sites:
@@ -550,7 +538,6 @@ categories:
         url: https://www.58.com/
         icon: fas fa-home
         description: 分类信息平台
-
   - name: 实用工具
     icon: fas fa-tools
     sites:
@@ -618,7 +605,6 @@ categories:
         url: https://www.ip111.cn/
         icon: fas fa-network-wired
         description: IP 查询与网络检测工具
-
   - name: 创作工具
     icon: fas fa-pen-fancy
     sites:
@@ -634,7 +620,6 @@ categories:
         url: https://www.coze.cn/overview?utm_medium=daohang&utm_source=plnav&utm_term=hw_coze_plnav
         icon: fas fa-robot
         description: AI Agent 与 Bot 搭建平台
-
   - name: 站长工具
     icon: fas fa-server
     sites:
@@ -678,7 +663,6 @@ categories:
         url: https://radar.cloudflare.com/
         icon: fas fa-satellite-dish
         description: 网络流量趋势观察
-
   - name: 资源发现
     icon: fas fa-compass
     sites:
@@ -726,7 +710,6 @@ categories:
         url: https://sspai.com/
         icon: fas fa-toolbox
         description: 工具与效率资源发现
-
   - name: 软件分享
     icon: fas fa-download
     sites:
@@ -746,7 +729,6 @@ categories:
         url: https://www.xitongku.com/
         icon: fas fa-desktop
         description: 系统镜像与装机资源
-
   - name: 探索发现
     icon: fas fa-binoculars
     sites:
