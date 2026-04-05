@@ -74,6 +74,14 @@ categories:
         url: https://kimi.moonshot.cn/
         icon: fas fa-moon
         description: 中文 AI 助手
+      - name: 文心一言
+        url: https://yiyan.baidu.com/
+        icon: fas fa-comment-dots
+        description: 百度 AI 助手
+      - name: 通义千问
+        url: https://tongyi.aliyun.com/
+        icon: fas fa-comments
+        description: 阿里 AI 助手
 
   - name: 视频与内容
     icon: fas fa-play-circle
@@ -110,6 +118,14 @@ categories:
         url: https://www.huxiu.com/
         icon: fas fa-rss
         description: 商业与科技资讯
+      - name: 网易云音乐
+        url: https://music.163.com/
+        icon: fas fa-music
+        description: 音乐与内容平台
+      - name: QQ 音乐
+        url: https://y.qq.com/
+        icon: fas fa-headphones
+        description: 音乐平台
 
   - name: 社交与社区
     icon: fas fa-users
@@ -146,6 +162,14 @@ categories:
         url: https://www.linkedin.com/
         icon: fab fa-linkedin
         description: 职业社交平台
+      - name: Telegram
+        url: https://telegram.org/
+        icon: fab fa-telegram
+        description: 即时通讯平台
+      - name: Discord
+        url: https://discord.com/
+        icon: fab fa-discord
+        description: 社群交流平台
 
   - name: 效率工具
     icon: fas fa-briefcase
@@ -182,6 +206,14 @@ categories:
         url: https://www.airtable.com/
         icon: fas fa-table
         description: 轻量数据库与协作工具
+      - name: Todoist
+        url: https://todoist.com/
+        icon: fas fa-check-circle
+        description: 任务管理工具
+      - name: ProcessOn
+        url: https://www.processon.com/
+        icon: fas fa-project-diagram
+        description: 思维导图与流程图工具
 
   - name: 邮箱与云盘
     icon: fas fa-envelope-open-text
@@ -218,6 +250,14 @@ categories:
         url: https://pan.baidu.com/
         icon: fas fa-cloud-upload-alt
         description: 中文网盘服务
+      - name: 坚果云
+        url: https://www.jianguoyun.com/
+        icon: fas fa-cloud
+        description: 文件同步与 WebDAV 服务
+      - name: 阿里云盘
+        url: https://www.alipan.com/
+        icon: fas fa-cloud-meatball
+        description: 阿里云盘服务
 
   - name: 开发效率
     icon: fas fa-code
@@ -254,6 +294,14 @@ categories:
         url: https://stackblitz.com/
         icon: fas fa-bolt
         description: 在线开发环境
+      - name: CodePen
+        url: https://codepen.io/
+        icon: fab fa-codepen
+        description: 前端代码实验场
+      - name: Replit
+        url: https://replit.com/
+        icon: fas fa-laptop-code
+        description: 在线编程平台
 
   - name: 设计与素材
     icon: fas fa-palette
@@ -290,6 +338,14 @@ categories:
         url: https://unsplash.com/
         icon: fas fa-camera
         description: 免费图片资源
+      - name: Pexels
+        url: https://www.pexels.com/
+        icon: fas fa-camera-retro
+        description: 免费图片与视频素材
+      - name: Pinterest
+        url: https://www.pinterest.com/
+        icon: fab fa-pinterest
+        description: 视觉灵感收集平台
 
   - name: 学习与课程
     icon: fas fa-graduation-cap
@@ -326,6 +382,14 @@ categories:
         url: https://www.khanacademy.org/
         icon: fas fa-school
         description: 免费学习平台
+      - name: W3Schools
+        url: https://www.w3schools.com/
+        icon: fas fa-code
+        description: 编程学习站点
+      - name: 中国知网
+        url: https://www.cnki.net/
+        icon: fas fa-book
+        description: 学术检索平台
 
   - name: 购物与消费
     icon: fas fa-shopping-bag
@@ -362,6 +426,14 @@ categories:
         url: https://www.ebay.com/
         icon: fas fa-shopping-bag
         description: 国际电商与拍卖平台
+      - name: 苏宁易购
+        url: https://www.suning.com/
+        icon: fas fa-shopping-basket
+        description: 家电电商平台
+      - name: 唯品会
+        url: https://www.vip.com/
+        icon: fas fa-gift
+        description: 特卖电商平台
 
   - name: 生活服务
     icon: fas fa-map-marked-alt
@@ -398,3 +470,187 @@ categories:
         url: https://www.didiglobal.com/
         icon: fas fa-taxi
         description: 出行打车平台
+      - name: 饿了么
+        url: https://www.ele.me/
+        icon: fas fa-hamburger
+        description: 外卖平台
+      - name: 58 同城
+        url: https://www.58.com/
+        icon: fas fa-home
+        description: 分类信息平台
+
+  - name: 实用工具
+    icon: fas fa-tools
+    sites:
+      - name: TinyPNG
+        url: https://tinypng.com/
+        icon: fas fa-compress
+        description: 图片压缩工具
+      - name: Remove.bg
+        url: https://www.remove.bg/
+        icon: fas fa-cut
+        description: 一键抠图工具
+      - name: Excalidraw
+        url: https://excalidraw.com/
+        icon: fas fa-pencil-alt
+        description: 手绘风格图表工具
+      - name: JSON Editor Online
+        url: https://jsoneditoronline.org/
+        icon: fas fa-code-branch
+        description: JSON 在线编辑器
+      - name: Can I Use
+        url: https://caniuse.com/
+        icon: fas fa-browser
+        description: 浏览器兼容性查询
+      - name: Carbon
+        url: https://carbon.now.sh/
+        icon: fas fa-code
+        description: 代码截图工具
+      - name: Speedtest
+        url: https://www.speedtest.net/
+        icon: fas fa-tachometer-alt
+        description: 网络测速工具
+      - name: 在线 PS
+        url: https://www.photopea.com/
+        icon: fas fa-image
+        description: 在线图片编辑工具
+      - name: DeepL
+        url: https://www.deepl.com/
+        icon: fas fa-language
+        description: 翻译工具
+      - name: 谷歌翻译
+        url: https://translate.google.com/
+        icon: fas fa-language
+        description: 多语言翻译服务
+
+  - name: 站长工具
+    icon: fas fa-server
+    sites:
+      - name: 百度统计
+        url: https://tongji.baidu.com/
+        icon: fas fa-chart-line
+        description: 网站流量统计
+      - name: Google Analytics
+        url: https://analytics.google.com/
+        icon: fab fa-google
+        description: 网站分析平台
+      - name: Search Console
+        url: https://search.google.com/search-console/
+        icon: fas fa-search
+        description: Google 搜索表现分析
+      - name: Ahrefs
+        url: https://ahrefs.com/
+        icon: fas fa-link
+        description: SEO 与外链分析工具
+      - name: SEMrush
+        url: https://www.semrush.com/
+        icon: fas fa-chart-bar
+        description: SEO 与竞品分析
+      - name: 站长工具
+        url: https://tool.chinaz.com/
+        icon: fas fa-tools
+        description: 中文站长工具集
+      - name: 爱站网
+        url: https://www.aizhan.com/
+        icon: fas fa-sitemap
+        description: SEO 与网站数据工具
+      - name: Similarweb
+        url: https://www.similarweb.com/
+        icon: fas fa-globe
+        description: 网站流量分析
+      - name: PageSpeed Insights
+        url: https://pagespeed.web.dev/
+        icon: fas fa-rocket
+        description: 网站性能分析
+      - name: Cloudflare Radar
+        url: https://radar.cloudflare.com/
+        icon: fas fa-satellite-dish
+        description: 网络流量趋势观察
+
+  - name: 资源发现
+    icon: fas fa-compass
+    sites:
+      - name: Product Hunt
+        url: https://www.producthunt.com/
+        icon: fas fa-rocket
+        description: 新产品发现平台
+      - name: Hacker News
+        url: https://news.ycombinator.com/
+        icon: fab fa-hacker-news
+        description: 技术与创业社区
+      - name: Indie Hackers
+        url: https://www.indiehackers.com/
+        icon: fas fa-lightbulb
+        description: 独立开发者社区
+      - name: AlternativeTo
+        url: https://alternativeto.net/
+        icon: fas fa-random
+        description: 工具替代品搜索
+      - name: Openverse
+        url: https://openverse.org/
+        icon: fas fa-photo-video
+        description: 开放版权资源搜索
+      - name: GitHub Trending
+        url: https://github.com/trending
+        icon: fab fa-github
+        description: GitHub 热门项目
+      - name: APKPure
+        url: https://apkpure.com/
+        icon: fas fa-mobile-alt
+        description: 应用发现平台
+      - name: App Store
+        url: https://www.apple.com/app-store/
+        icon: fab fa-apple
+        description: 苹果应用商店
+      - name: Chrome Web Store
+        url: https://chromewebstore.google.com/
+        icon: fab fa-chrome
+        description: 浏览器扩展商店
+      - name: 少数派高效工具
+        url: https://sspai.com/
+        icon: fas fa-toolbox
+        description: 工具与效率资源发现
+
+  - name: 探索发现
+    icon: fas fa-binoculars
+    sites:
+      - name: Wikipedia
+        url: https://www.wikipedia.org/
+        icon: fab fa-wikipedia-w
+        description: 在线百科全书
+      - name: Internet Archive
+        url: https://archive.org/
+        icon: fas fa-archive
+        description: 数字资源存档库
+      - name: NASA
+        url: https://www.nasa.gov/
+        icon: fas fa-space-shuttle
+        description: 航天与科学探索
+      - name: National Geographic
+        url: https://www.nationalgeographic.com/
+        icon: fas fa-globe-asia
+        description: 地理与探索内容
+      - name: TED
+        url: https://www.ted.com/
+        icon: fas fa-microphone
+        description: 思想与演讲平台
+      - name: ArXiv
+        url: https://arxiv.org/
+        icon: fas fa-file-alt
+        description: 学术论文预印本平台
+      - name: Awwwards
+        url: https://www.awwwards.com/
+        icon: fas fa-award
+        description: 创意网站灵感平台
+      - name: Atlas Obscura
+        url: https://www.atlasobscura.com/
+        icon: fas fa-map-signs
+        description: 世界奇闻与冷门地点
+      - name: Smithsonian
+        url: https://www.si.edu/
+        icon: fas fa-landmark
+        description: 博物馆与知识内容
+      - name: 豆瓣读书
+        url: https://book.douban.com/
+        icon: fas fa-book-open
+        description: 阅读与发现平台
