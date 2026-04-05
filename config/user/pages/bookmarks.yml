@@ -1,0 +1,57 @@
+title: 我的精选
+subtitle: 公开可分享，同时保留个人长期整理的高质量站点
+template: bookmarks
+
+categories:
+  - name: 个人精选
+    icon: fas fa-gem
+    groups:
+      - name: 值得常逛
+        icon: fas fa-fire
+        sites:
+          - name: Product Hunt
+            url: https://www.producthunt.com/
+            icon: fas fa-rocket
+            description: 新产品与新工具发现平台
+          - name: Hacker News
+            url: https://news.ycombinator.com/
+            icon: fab fa-hacker-news
+            description: 技术与创业社区
+          - name: Indie Hackers
+            url: https://www.indiehackers.com/
+            icon: fas fa-lightbulb
+            description: 独立开发者社区
+
+      - name: 建站相关
+        icon: fas fa-globe
+        sites:
+          - name: Cloudflare Pages
+            url: https://pages.cloudflare.com/
+            icon: fas fa-cloud
+            description: 低成本静态站部署平台
+          - name: GitHub Pages
+            url: https://pages.github.com/
+            icon: fab fa-github
+            description: 免费静态站托管
+          - name: Namecheap
+            url: https://www.namecheap.com/
+            icon: fas fa-link
+            description: 域名注册与管理
+
+  - name: 可持续补充
+    icon: fas fa-layer-group
+    subcategories:
+      - name: 你后续自己整理的网站
+        icon: fas fa-folder-open
+        groups:
+          - name: 待补充分类
+            icon: fas fa-thumbtack
+            sites:
+              - name: 示例站点 A
+                url: https://example.com/
+                icon: fas fa-star
+                description: 这里可以替换成你自己的精选网址
+              - name: 示例站点 B
+                url: https://example.org/
+                icon: fas fa-star
+                description: 后续可继续扩展更多个人收藏

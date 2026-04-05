@@ -1,0 +1,51 @@
+title: 西辞的导航站
+description: 常用网站与个人精选的分享型导航站
+author: wza04
+favicon: menav.svg
+logo_text: 导航站
+
+icons:
+  mode: favicon
+  region: cn
+
+security:
+  allowedSchemes:
+    - http
+    - https
+    - mailto
+    - tel
+
+theme:
+  mode: system
+
+fonts:
+  source: css
+  cssUrl: 'https://fontsapi.zeoseven.com/292/main/result.css'
+  preload: true
+  family: LXGW WenKai
+  weight: normal
+
+profile:
+  title: 常用网站 + 我的精选
+  subtitle: 一个可以分享给别人，也适合自己每天打开使用的导航站
+
+github:
+  username: ''
+  heatmapColor: 37b24d
+  cacheDir: dev
+
+social:
+  - name: GitHub
+    url: https://github.com
+    icon: fab fa-github
+
+navigation:
+  - name: 常用
+    icon: fas fa-star
+    id: common
+  - name: 精选
+    icon: fas fa-bookmark
+    id: bookmarks
+  - name: 关于
+    icon: fas fa-file-alt
+    id: content

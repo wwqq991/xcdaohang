@@ -1,0 +1,6 @@
+title: 关于
+subtitle: 这个导航站的定位与使用说明
+template: content
+
+content:
+  file: content/about.md

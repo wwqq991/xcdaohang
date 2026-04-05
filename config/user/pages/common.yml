@@ -1,0 +1,88 @@
+title: 常用网站
+subtitle: 覆盖日常高频访问的网站分类
+template: page
+
+categories:
+  - name: AI 工具
+    icon: fas fa-robot
+    sites:
+      - name: ChatGPT
+        url: https://chat.openai.com/
+        icon: fas fa-comments
+        description: 对话式 AI 助手
+      - name: Claude
+        url: https://claude.ai/
+        icon: fas fa-brain
+        description: 通用 AI 助手与写作工具
+      - name: Gemini
+        url: https://gemini.google.com/
+        icon: fas fa-star-of-life
+        description: Google AI 助手
+      - name: Perplexity
+        url: https://www.perplexity.ai/
+        icon: fas fa-search
+        description: AI 搜索与问答
+
+  - name: 开发效率
+    icon: fas fa-code
+    sites:
+      - name: GitHub
+        url: https://github.com/
+        icon: fab fa-github
+        description: 代码托管与协作平台
+      - name: Stack Overflow
+        url: https://stackoverflow.com/
+        icon: fab fa-stack-overflow
+        description: 程序员问答社区
+      - name: MDN Web Docs
+        url: https://developer.mozilla.org/
+        icon: fas fa-book
+        description: Web 开发文档
+      - name: Vercel
+        url: https://vercel.com/
+        icon: fas fa-cloud
+        description: 前端部署平台
+      - name: Cloudflare
+        url: https://www.cloudflare.com/
+        icon: fas fa-shield-alt
+        description: CDN、DNS 与 Pages 部署
+
+  - name: 学习与内容
+    icon: fas fa-graduation-cap
+    sites:
+      - name: Bilibili
+        url: https://www.bilibili.com/
+        icon: fas fa-play-circle
+        description: 视频学习与内容平台
+      - name: YouTube
+        url: https://www.youtube.com/
+        icon: fab fa-youtube
+        description: 全球视频平台
+      - name: Zhihu
+        url: https://www.zhihu.com/
+        icon: fas fa-question-circle
+        description: 中文问答社区
+      - name: Juejin
+        url: https://juejin.cn/
+        icon: fas fa-pen-nib
+        description: 开发者内容社区
+
+  - name: 设计与素材
+    icon: fas fa-palette
+    sites:
+      - name: Figma
+        url: https://www.figma.com/
+        icon: fab fa-figma
+        description: 在线设计与协作工具
+      - name: Dribbble
+        url: https://dribbble.com/
+        icon: fab fa-dribbble
+        description: 设计灵感社区
+      - name: Canva
+        url: https://www.canva.com/
+        icon: fas fa-paint-brush
+        description: 在线视觉设计工具
+      - name: Iconfont
+        url: https://www.iconfont.cn/
+        icon: fas fa-icons
+        description: 图标资源库
