@@ -43,6 +43,10 @@ categories:
       - name: 长期收藏
         icon: fas fa-globe
         sites:
+          - name: 我的博客
+            url: https://xc-blog.ccwu.cc/
+            icon: fas fa-pen-nib
+            description: 记录折腾、教程和一些奇思妙想的个人博客
           - name: DNShe
             url: https://www.dnshe.com/
             icon: fas fa-link

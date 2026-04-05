@@ -35,10 +35,10 @@ github:
   cacheDir: dev
 
 social:
-  - name: Email
+  - name: 邮箱
     url: mailto:xc-daohang@xczsbz.33mail.com
     icon: fas fa-envelope
-  - name: Blog
+  - name: 博客
     url: https://xc-blog.ccwu.cc/
     icon: fas fa-pen-nib
 
