@@ -9,6 +9,18 @@ categories:
       - name: 长期使用
         icon: fas fa-fire
         sites:
+          - name: 33Mail
+            url: http://33mail.com/
+            icon: fas fa-envelope-open-text
+            description: 一直在用的别名邮箱，可以不暴露你的真实邮箱
+          - name: SiliconFlow
+            url: https://cloud.siliconflow.cn/i/3IdL5FPU
+            icon: fas fa-microchip
+            description: 国内 AI 聚合平台，注册实名后白给额度
+          - name: Rainyun
+            url: https://www.rainyun.com/BZTX_
+            icon: fas fa-cloud
+            description: 国内性价比较高且稳定的云服务商
           - name: Product Hunt
             url: https://www.producthunt.com/
             icon: fas fa-rocket
