@@ -143,6 +143,10 @@ categories:
         url: https://y.qq.com/
         icon: fas fa-headphones
         description: 音乐平台
+      - name: 酷狗音乐
+        url: https://www.kugou.com/
+        icon: fas fa-link
+        description: 听歌的...
   - name: 新闻资讯
     icon: fas fa-newspaper
     sites:
