@@ -1,12 +1,12 @@
 title: 我的精选
-subtitle: 公开可分享，同时保留个人长期整理的高质量站点
+subtitle: 真实使用过或很好用的网站
 template: bookmarks
 
 categories:
   - name: 个人精选
     icon: fas fa-gem
     groups:
-      - name: 值得常逛
+      - name: 长期使用
         icon: fas fa-fire
         sites:
           - name: Product Hunt
@@ -22,7 +22,7 @@ categories:
             icon: fas fa-lightbulb
             description: 独立开发者社区
 
-      - name: 建站相关
+      - name: 长期收藏
         icon: fas fa-globe
         sites:
           - name: Cloudflare Pages
@@ -38,10 +38,26 @@ categories:
             icon: fas fa-link
             description: 域名注册与管理
 
+      - name: 拼车代充
+        icon: fas fa-coins
+        sites:
+          - name: Liyaohui
+            url: https://liyaohui.xyz/
+            icon: fas fa-shopping-bag
+            description: 买过 Gemini 和 GPT 的拼车代充站
+          - name: 木花清芳发卡站
+            url: https://fa.muhuaqingfang.top/
+            icon: fas fa-tags
+            description: 价格很低，暂时还没试过
+          - name: UniversalBus
+            url: https://universalbus.cn/?s=vLu48tr20T
+            icon: fas fa-ticket-alt
+            description: 偶然发现的流媒体代充站
+
   - name: 可持续补充
     icon: fas fa-layer-group
     subcategories:
-      - name: 你后续自己整理的网站
+      - name: 待整理
         icon: fas fa-folder-open
         groups:
           - name: 待补充分类
