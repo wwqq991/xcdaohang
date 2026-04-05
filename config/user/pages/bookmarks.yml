@@ -21,6 +21,10 @@ categories:
             url: https://www.rainyun.com/BZTX_
             icon: fas fa-cloud
             description: 国内性价比较高且稳定的云服务商
+          - name: Cliproxy
+            url: https://share.cliproxy.com/share/dsy8ryghb
+            icon: fas fa-network-wired
+            description: 性价比相对高的静态住宅 IP，亲测解锁 Gemini、GPT 和流媒体
           - name: Product Hunt
             url: https://www.producthunt.com/
             icon: fas fa-rocket
