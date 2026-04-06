@@ -78,6 +78,10 @@ categories:
             url: https://universalbus.cn/?s=vLu48tr20T
             icon: fas fa-ticket-alt
             description: 偶然发现的流媒体代充站
+          - name: Popcorn Plus
+            url: https://popcorn.plus/?i=e3cb283a3cb8
+            icon: fas fa-tv
+            description: PC 端低价流媒体代充
   - name: 可持续补充
     icon: fas fa-layer-group
     subcategories:
