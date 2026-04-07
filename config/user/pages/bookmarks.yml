@@ -5,56 +5,57 @@ categories:
   - name: 个人精选
     icon: fas fa-gem
     groups:
-      - name: 长期使用
+      - name: 云端与服务
         icon: fas fa-fire
         sites:
           - name: 33Mail
             url: http://33mail.com/
             icon: fas fa-envelope-open-text
             description: 一直在用的别名邮箱，可以不暴露你的真实邮箱
-          - name: SiliconFlow
-            url: https://cloud.siliconflow.cn/i/3IdL5FPU
-            icon: fas fa-microchip
-            description: 国内 AI 聚合平台，注册实名后白给额度
           - name: Rainyun
             url: https://www.rainyun.com/BZTX_
             icon: fas fa-cloud
             description: 国内性价比较高且稳定的云服务商
+      - name: AI 聚合
+        icon: fas fa-microchip
+        sites:
+          - name: OpenRouter
+            url: https://openrouter.ai/
+            icon: fas fa-route
+            description: 海外多模型聚合平台
+          - name: SiliconFlow
+            url: https://cloud.siliconflow.cn/i/3IdL5FPU
+            icon: fas fa-microchip
+            description: 国内 AI 聚合平台，注册实名后白给额度
+      - name: IP 与网络
+        icon: fas fa-network-wired
+        sites:
           - name: Cliproxy
             url: https://share.cliproxy.com/share/dsy8ryghb
             icon: fas fa-network-wired
             description: 性价比相对高的静态住宅 IP，亲测解锁 Gemini、GPT 和流媒体
-          - name: Product Hunt
-            url: https://www.producthunt.com/
-            icon: fas fa-rocket
-            description: 新产品与新工具发现平台
-          - name: Hacker News
-            url: https://news.ycombinator.com/
-            icon: fab fa-hacker-news
-            description: 技术与创业社区
-          - name: Indie Hackers
-            url: https://www.indiehackers.com/
-            icon: fas fa-lightbulb
-            description: 独立开发者社区
           - name: ipdata
             url: https://ipdata.co/
             icon: fas fa-link
             description: 检测IP的工具
-      - name: 长期收藏
-        icon: fas fa-globe
+          - name: ping0.cc
+            url: https://ping0.cc/
+            icon: fas fa-signal
+            description: 网络连通性与延迟检测工具
+      - name: 相关链接
+        icon: fas fa-link
         sites:
           - name: 我的博客
             url: https://xc-blog.ccwu.cc/
             icon: fas fa-pen-nib
             description: 记录折腾、教程和一些奇思妙想的个人博客
+      - name: 域名相关
+        icon: fas fa-globe
+        sites:
           - name: DNShe
             url: https://www.dnshe.com/
             icon: fas fa-link
             description: 可以注册五个免费域名，邀请码是 FJ43DF00C4
-          - name: Cloudflare Pages
-            url: https://pages.cloudflare.com/
-            icon: fas fa-cloud
-            description: 低成本静态站部署平台
           - name: GitHub Pages
             url: https://pages.github.com/
             icon: fab fa-github
@@ -63,6 +64,10 @@ categories:
             url: https://www.namecheap.com/
             icon: fas fa-link
             description: 域名注册与管理
+          - name: Cloudflare Pages
+            url: https://pages.cloudflare.com/
+            icon: fas fa-cloud
+            description: 低成本静态站部署平台
       - name: 拼车代充
         icon: fas fa-coins
         sites:
