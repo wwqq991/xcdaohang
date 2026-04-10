@@ -28,6 +28,10 @@ categories:
             url: https://my.racknerd.com/index.php?rp=/store/blackfriday2025
             icon: fas fa-server
             description: 年付 10 美元起，但如果没有美西机房不建议买
+          - name: 拼好鸡
+            url: https://www.lxc.wiki/aff/BOJDNRQW
+            icon: fas fa-server
+            description: 价格很低，但几乎完全无售后
       - name: AI 聚合
         icon: fas fa-microchip
         sites:
