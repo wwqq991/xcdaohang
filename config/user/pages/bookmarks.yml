@@ -32,6 +32,10 @@ categories:
             url: https://www.lxc.wiki/aff/BOJDNRQW
             icon: fas fa-server
             description: 价格很低，但几乎完全无售后
+          - name: 云悠
+            url: https://yunyoo.cc/aff/WPRBEBDH
+            icon: fas fa-cloud
+            description: 香港台湾美国日本多地可选，服务还可以，但高性价比机型长期缺货
       - name: AI 聚合
         icon: fas fa-microchip
         sites:
