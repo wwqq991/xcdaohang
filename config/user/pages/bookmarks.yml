@@ -20,6 +20,10 @@ categories:
             url: https://vps.idcfx.net/aff/HHRZYQMV
             icon: fas fa-server
             description: 几乎是我见过最便宜的云服务，不过便宜机器几乎无售后
+          - name: bitsflow
+            url: https://ccp.bitsflow.cloud/order/main/packages/7-yr/?group_id=15&currency=CNY&a=NDE5
+            icon: fas fa-cloud
+            description: 英国云服务器厂商，年付 49 元起
       - name: AI 聚合
         icon: fas fa-microchip
         sites:
