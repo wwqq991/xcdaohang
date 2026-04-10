@@ -24,6 +24,10 @@ categories:
             url: https://ccp.bitsflow.cloud/order/main/packages/7-yr/?group_id=15&currency=CNY&a=NDE5
             icon: fas fa-cloud
             description: 英国云服务器厂商，年付 49 元起
+          - name: racknerd
+            url: https://my.racknerd.com/index.php?rp=/store/blackfriday2025
+            icon: fas fa-server
+            description: 年付 10 美元起，但如果没有美西机房不建议买
       - name: AI 聚合
         icon: fas fa-microchip
         sites:
