@@ -36,6 +36,10 @@ categories:
             url: https://yunyoo.cc/aff/WPRBEBDH
             icon: fas fa-cloud
             description: 香港台湾美国日本多地可选，服务还可以，但高性价比机型长期缺货
+          - name: dedi
+            url: https://billing.dedirock.com/aff.php?aff=471
+            icon: fas fa-server
+            description: 很便宜的美国服务器，基础款年付 6.5 美元起
       - name: AI 聚合
         icon: fas fa-microchip
         sites:
