@@ -36,6 +36,10 @@ categories:
             url: https://billing.dedirock.com/aff.php?aff=471
             icon: fas fa-server
             description: 很便宜的美国服务器，基础款年付 6.5 美元起
+          - name: colocrossing
+            url: https://cloud.colocrossing.com/aff.php?aff=1635
+            icon: fas fa-server
+            description: 主营美国 VPS，20T 大带宽流量，年付 10 美元起
       - name: 工具
         icon: fas fa-toolbox
         sites:
