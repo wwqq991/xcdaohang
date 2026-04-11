@@ -8,10 +8,6 @@ categories:
       - name: 云端与服务
         icon: fas fa-fire
         sites:
-          - name: 33Mail
-            url: http://33mail.com/
-            icon: fas fa-envelope-open-text
-            description: 一直在用的别名邮箱，可以不暴露你的真实邮箱
           - name: Rainyun
             url: https://www.rainyun.com/BZTX_
             icon: fas fa-cloud
@@ -40,6 +36,17 @@ categories:
             url: https://billing.dedirock.com/aff.php?aff=471
             icon: fas fa-server
             description: 很便宜的美国服务器，基础款年付 6.5 美元起
+      - name: 工具
+        icon: fas fa-toolbox
+        sites:
+          - name: 33Mail
+            url: http://33mail.com/
+            icon: fas fa-envelope-open-text
+            description: 一直在用的别名邮箱，可以不暴露你的真实邮箱
+          - name: 美国地址生成器
+            url: https://www.meiguodizhi.com/
+            icon: fas fa-map-marked-alt
+            description: 如果你需要一个美国地址的话
       - name: AI 聚合
         icon: fas fa-microchip
         sites:
