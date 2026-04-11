@@ -47,6 +47,14 @@ categories:
             url: https://www.meiguodizhi.com/
             icon: fas fa-map-marked-alt
             description: 如果你需要一个美国地址的话
+          - name: ipdata
+            url: https://ipdata.co/
+            icon: fas fa-link
+            description: 检测IP的工具
+          - name: ping0.cc
+            url: https://ping0.cc/
+            icon: fas fa-signal
+            description: 网络连通性与延迟检测工具
       - name: AI 聚合
         icon: fas fa-microchip
         sites:
@@ -65,14 +73,6 @@ categories:
             url: https://share.cliproxy.com/share/dsy8ryghb
             icon: fas fa-network-wired
             description: 性价比相对高的静态住宅 IP，亲测解锁 Gemini、GPT 和流媒体
-          - name: ipdata
-            url: https://ipdata.co/
-            icon: fas fa-link
-            description: 检测IP的工具
-          - name: ping0.cc
-            url: https://ping0.cc/
-            icon: fas fa-signal
-            description: 网络连通性与延迟检测工具
       - name: 相关链接
         icon: fas fa-link
         sites:
