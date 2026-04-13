@@ -77,6 +77,10 @@ categories:
             url: https://share.cliproxy.com/share/dsy8ryghb
             icon: fas fa-network-wired
             description: 性价比相对高的静态住宅 IP，亲测解锁 Gemini、GPT 和流媒体
+          - name: Webshare
+            url: https://www.webshare.io/?referral_code=cmmp1n69ljs0
+            icon: fas fa-network-wired
+            description: 很便宜的静态住宅 IP，年付折合每月约 4 元，质量尚可
       - name: 相关链接
         icon: fas fa-link
         sites:
