@@ -103,6 +103,13 @@ categories:
             url: https://pages.cloudflare.com/
             icon: fas fa-cloud
             description: 低成本静态站部署平台
+      - name: 其他内容
+        icon: fas fa-shapes
+        sites:
+          - name: bybit
+            url: https://www.bybitglobal.com/invite?ref=BDGMXJD
+            icon: fas fa-coins
+            description: 适合订阅海外服务
       - name: 拼车代充
         icon: fas fa-coins
         sites:
