@@ -117,14 +117,14 @@ categories:
       - name: 拼车代充
         icon: fas fa-coins
         sites:
-          - name: Liyaohui
-            url: https://liyaohui.xyz/
-            icon: fas fa-shopping-bag
-            description: 买过 Gemini 和 GPT 的拼车代充站
           - name: mrli88
             url: https://mrli88.com?aff=GOvk3WBQ
             icon: fas fa-shopping-bag
             description: 一个卖账号的平台，价格还可以
+          - name: Liyaohui
+            url: https://liyaohui.xyz/
+            icon: fas fa-shopping-bag
+            description: 买过 Gemini 和 GPT 的拼车代充站
           - name: 木花清芳发卡站
             url: https://fa.muhuaqingfang.top/
             icon: fas fa-tags
@@ -137,6 +137,10 @@ categories:
             url: https://popcorn.plus/?i=e3cb283a3cb8
             icon: fas fa-tv
             description: PC 端低价流媒体代充
+          - name: MrLi88
+            url: https://mrli88.com?aff=GOvk3WBQ
+            icon: fas fa-id-card
+            description: 卖账号的平台
   - name: 可持续补充
     icon: fas fa-layer-group
     subcategories:
