@@ -117,10 +117,6 @@ categories:
       - name: 拼车代充
         icon: fas fa-coins
         sites:
-          - name: mrli88
-            url: https://mrli88.com?aff=GOvk3WBQ
-            icon: fas fa-shopping-bag
-            description: 一个卖账号的平台，价格还可以
           - name: Liyaohui
             url: https://liyaohui.xyz/
             icon: fas fa-shopping-bag
