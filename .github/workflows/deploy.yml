@@ -137,16 +137,16 @@ jobs:
       # - 设置 repository variable ENABLE_GITHUB_PAGES=false 来禁用 GitHub Pages 部署
       # - 默认启用 GitHub Pages 部署以保持向后兼容
       - name: Setup Pages
-        if: ${{ vars.ENABLE_GITHUB_PAGES == 'true' }}
+        if: ${{ vars.ENABLE_GITHUB_PAGES != 'false' }}
         uses: actions/configure-pages@v4
 
       - name: Upload artifact
-        if: ${{ vars.ENABLE_GITHUB_PAGES == 'true' }}
+        if: ${{ vars.ENABLE_GITHUB_PAGES != 'false' }}
         uses: actions/upload-pages-artifact@v3
         with:
           path: 'dist'
 
       - name: Deploy to GitHub Pages
-        if: ${{ vars.ENABLE_GITHUB_PAGES == 'true' }}
+        if: ${{ vars.ENABLE_GITHUB_PAGES != 'false' }}
         id: deployment
         uses: actions/deploy-pages@v4
