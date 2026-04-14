@@ -7,8 +7,8 @@
     <title data-editable="site-title">{{site.title}}</title>
     <meta name="description" content="{{site.description}}" data-editable="site-description">
     <meta name="author" content="{{site.author}}" data-editable="site-author">
-    <link rel="icon" href="./{{site.favicon}}" type="image/x-icon">
-    <link rel="shortcut icon" href="./{{site.favicon}}" type="image/x-icon">
+    <link rel="icon" href="./{{site.favicon}}?v={{assetVersion}}" type="image/x-icon">
+    <link rel="shortcut icon" href="./{{site.favicon}}?v={{assetVersion}}" type="image/x-icon">
     {{{fontLinks}}}
     <style>
 {{{fontCss}}}
@@ -52,7 +52,7 @@
             document.documentElement.classList.add('preload');
         })();
     </script>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css?v={{assetVersion}}">
   {{!-- github-calendar 已迁移为构建期抓取并注入（避免 runtime 依赖 unpkg + 代理服务） --}}
     <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
 
@@ -79,7 +79,7 @@
             <div class="logo">
                 <div class="logo-brand">
                     {{#if site.favicon}}
-                    <img class="logo-image" src="./{{site.favicon}}" alt="{{site.title}} logo" width="26" height="26">
+                    <img class="logo-image" src="./{{site.favicon}}?v={{assetVersion}}" alt="{{site.title}} logo" width="26" height="26">
                     {{/if}}
                     <h1 data-editable="logo-text">{{site.logo_text}}</h1>
                 </div>
@@ -216,8 +216,8 @@
     <script id="menav-config-data" type="application/json" style="display: none;">
         {{{configJSON}}}
     </script>
-    <script src="pinyin-match.js"></script>
+    <script src="pinyin-match.js?v={{assetVersion}}"></script>
   {{!-- github-calendar 已迁移为构建期抓取并注入（避免 runtime 依赖 unpkg + 代理服务） --}}
-    <script src="script.js"></script>
+    <script src="script.js?v={{assetVersion}}"></script>
 </body>
 </html>
