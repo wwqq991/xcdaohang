@@ -133,10 +133,6 @@ categories:
             url: https://popcorn.plus/?i=e3cb283a3cb8
             icon: fas fa-tv
             description: PC 端低价流媒体代充
-          - name: codex-debug-probe
-            url: https://example.com/?codex-debug-probe=20260414
-            icon: fas fa-vial
-            description: 临时测试卡片，验证新增站点是否能稳定渲染
   - name: 可持续补充
     icon: fas fa-layer-group
     subcategories:
