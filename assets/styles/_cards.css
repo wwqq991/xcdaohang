@@ -414,11 +414,6 @@
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
 }
 
-/* 让“拼车代充”在桌面端固定同排展示 5 张卡，避免第五张被挤到下一行 */
-.group[data-name='拼车代充'] > .group-content > .sites-grid {
-  grid-template-columns: repeat(5, minmax(0, 1fr));
-}
-
 /* 响应式设计 - 嵌套结构 */
 @media (max-width: 768px) {
   .category-level-2 {
@@ -457,10 +452,6 @@
     grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: var(--spacing-sm);
   }
-
-  .group[data-name='拼车代充'] > .group-content > .sites-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
 }
 
 @media (max-width: 480px) {
@@ -492,10 +483,6 @@
   .category-level-4 .sites-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 0.5rem;
-  }
-
-  .group[data-name='拼车代充'] > .group-content > .sites-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
 
