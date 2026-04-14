@@ -119,11 +119,7 @@ function prepareRenderData(config) {
 
   const extensionConfig = buildExtensionConfig(renderData);
   renderData.extensionConfig = extensionConfig;
-  renderData.assetVersion =
-    extensionConfig && extensionConfig.timestamp
-      ? String(extensionConfig.timestamp).trim()
-      : String(Date.now());
-  renderData.extensionConfigUrl = `./${MENAV_EXTENSION_CONFIG_FILE}?v=${encodeURIComponent(renderData.assetVersion)}`;
+  renderData.extensionConfigUrl = `./${MENAV_EXTENSION_CONFIG_FILE}`;
   renderData.configJSON = makeJsonSafeForHtmlScript(
     JSON.stringify({
       ...extensionConfig,
