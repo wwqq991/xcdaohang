@@ -41,6 +41,9 @@ social:
   - name: 博客
     url: https://xc-blog.ccwu.cc/
     icon: fas fa-pen-nib
+  - name: Telegram 群组
+    url: https://t.me/+nf7asoGyU8cyNTMx
+    icon: fab fa-telegram-plane
 
 navigation:
   - name: 常用
