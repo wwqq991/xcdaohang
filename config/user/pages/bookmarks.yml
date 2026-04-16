@@ -59,6 +59,10 @@ categories:
             url: https://ping0.cc/
             icon: fas fa-signal
             description: 网络连通性与延迟检测工具
+          - name: NexBrowser
+            url: https://service.nexbrowser.net/html/register.html?invite=313231323630
+            icon: fas fa-fingerprint
+            description: 效果还可以的指纹浏览器
       - name: AI 聚合
         icon: fas fa-microchip
         sites:
