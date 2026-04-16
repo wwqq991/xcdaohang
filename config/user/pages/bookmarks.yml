@@ -122,7 +122,7 @@ categories:
             icon: fas fa-shopping-bag
             description: 买过 Gemini 和 GPT 的拼车代充站
           - name: 木花清芳发卡站
-            url: https://fa.muhuaqingfang.top/
+            url: https://fa.muhuaqingfang.top?invite=1573
             icon: fas fa-tags
             description: 价格很低，暂时还没试过
           - name: UniversalBus
