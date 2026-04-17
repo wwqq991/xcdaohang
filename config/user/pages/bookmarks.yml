@@ -40,6 +40,10 @@ categories:
             url: https://cloud.colocrossing.com/aff.php?aff=1635
             icon: fas fa-server
             description: 主营美国 VPS，20T 大带宽流量，年付 10 美元起
+          - name: PikPak
+            url: https://mypikpak.net/drive/activity/invited?invitation-code=72400539
+            icon: fas fa-hard-drive
+            description: 隐私网盘，支持支付宝付款
       - name: 工具
         icon: fas fa-toolbox
         sites:
