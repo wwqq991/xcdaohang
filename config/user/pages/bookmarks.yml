@@ -93,6 +93,10 @@ categories:
             url: https://www.webshare.io/?referral_code=cmmp1n69ljs0
             icon: fas fa-network-wired
             description: 很便宜的静态住宅 IP，年付折合每月约 4 元，质量尚可
+          - name: Miyayun
+            url: https://www.miyaip.com/?invitecode=1915963
+            icon: fas fa-globe
+            description: 质量很高的 IP，全球各地都有
       - name: 相关链接
         icon: fas fa-link
         sites:
