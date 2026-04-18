@@ -67,6 +67,10 @@ categories:
             url: https://service.nexbrowser.net/html/register.html?invite=313231323630
             icon: fas fa-fingerprint
             description: 效果还可以的指纹浏览器
+          - name: Codsim
+            url: https://codsim.cc?reference=623547269
+            icon: fas fa-sim-card
+            description: 性价比很高的 eSIM
       - name: AI 聚合
         icon: fas fa-microchip
         sites:
