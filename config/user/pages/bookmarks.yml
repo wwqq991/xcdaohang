@@ -47,10 +47,6 @@ categories:
       - name: 工具
         icon: fas fa-toolbox
         sites:
-          - name: 33Mail
-            url: http://33mail.com/
-            icon: fas fa-envelope-open-text
-            description: 一直在用的别名邮箱，可以不暴露你的真实邮箱
           - name: 美国地址生成器
             url: https://www.meiguodizhi.com/
             icon: fas fa-map-marked-alt
@@ -71,6 +67,17 @@ categories:
             url: https://codsim.cc?reference=623547269
             icon: fas fa-sim-card
             description: 性价比很高的 eSIM
+      - name: 邮箱
+        icon: fas fa-envelope
+        sites:
+          - name: 33Mail
+            url: http://33mail.com/
+            icon: fas fa-envelope-open-text
+            description: 一直在用的别名邮箱，可以不暴露你的真实邮箱
+          - name: Proton Mail
+            url: https://mail.proton.me/
+            icon: fas fa-shield-alt
+            description: 瑞士端对端隐私邮箱
       - name: AI 聚合
         icon: fas fa-microchip
         sites:
