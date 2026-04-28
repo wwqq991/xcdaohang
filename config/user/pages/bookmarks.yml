@@ -16,6 +16,10 @@ categories:
             url: https://www.rabisu.com/panel/cart.php?a=confproduct&i=0&language=chinese
             icon: fas fa-server
             description: 云端与服务，9.9 美元一年
+          - name: CloudCone
+            url: https://app.cloudcone.com/vps/506/create?token=hashtag-26-stor-vps-1&ref=13845
+            icon: fas fa-cloud
+            description: 云端与服务，洛杉矶 10 美元一年
           - name: 佛系云
             url: https://vps.idcfx.net/aff/HHRZYQMV
             icon: fas fa-server
