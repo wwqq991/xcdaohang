@@ -12,6 +12,10 @@ categories:
             url: https://www.rainyun.com/BZTX_
             icon: fas fa-cloud
             description: 国内性价比较高且稳定的云服务商
+          - name: Rabisu
+            url: https://www.rabisu.com/panel/cart.php?a=confproduct&i=0&language=chinese
+            icon: fas fa-server
+            description: 云端与服务，9.9 美元一年
           - name: 佛系云
             url: https://vps.idcfx.net/aff/HHRZYQMV
             icon: fas fa-server
