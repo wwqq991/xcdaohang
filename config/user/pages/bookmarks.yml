@@ -74,7 +74,11 @@ categories:
           - name: Codsim
             url: https://codsim.cc?reference=623547269
             icon: fas fa-sim-card
-            description: 性价比很高的 eSIM
+            description: 一个卖 eSIM 流量卡的，出国旅行可以看看
+          - name: KiteSIM
+            url: https://h5.kitesim.co/register/?invite=ZIWLSZ
+            icon: fas fa-sim-card
+            description: 很有性价比的 eSIM 流量卡
       - name: 邮箱
         icon: fas fa-envelope
         sites:
