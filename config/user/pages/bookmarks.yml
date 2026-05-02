@@ -156,6 +156,10 @@ categories:
             url: https://liyaohui.xyz/
             icon: fas fa-shopping-bag
             description: 买过 Gemini 和 GPT 的拼车代充站
+          - name: AIPlusPro
+            url: https://aipluspro.store?invite=1231
+            icon: fas fa-store
+            description: 又一个代充平台，Gemini 很便宜
           - name: 木花清芳发卡站
             url: https://fa.muhuaqingfang.top?invite=1573
             icon: fas fa-tags
