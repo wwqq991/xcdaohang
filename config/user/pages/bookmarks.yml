@@ -67,10 +67,14 @@ categories:
             url: https://ipdata.co/
             icon: fas fa-link
             description: 检测IP的工具
-          - name: ping0.cc
-            url: https://ping0.cc/
-            icon: fas fa-signal
-            description: 网络连通性与延迟检测工具
+          - name: IPLeak
+            url: https://ipleak.net/
+            icon: fas fa-network-wired
+            description: IP、DNS 和 WebRTC 泄露检测工具
+          - name: IPPure
+            url: https://ippure.com/
+            icon: fas fa-shield-alt
+            description: IP 纯净度与网络环境检测工具
           - name: NexBrowser
             url: https://service.nexbrowser.net/html/register.html?invite=313231323630
             icon: fas fa-fingerprint
