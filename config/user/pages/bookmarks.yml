@@ -63,6 +63,10 @@ categories:
             url: https://www.meiguodizhi.com/
             icon: fas fa-map-marked-alt
             description: 如果你需要一个美国地址的话
+          - name: IP GeoAddress Generator
+            url: https://ip-geoaddress-generator.pages.dev/
+            icon: fas fa-map-pin
+            description: 根据当前 IP 随机生成真实地址
           - name: ipdata
             url: https://ipdata.co/
             icon: fas fa-link
@@ -98,6 +102,14 @@ categories:
             url: https://mail.proton.me/
             icon: fas fa-shield-alt
             description: 瑞士端对端隐私邮箱
+          - name: ETempMail
+            url: https://etempmail.com/zh
+            icon: fas fa-user-graduate
+            description: 临时教育邮箱
+          - name: XCFake Mail
+            url: https://mail.xcfake150.asia/login
+            icon: fas fa-envelope-square
+            description: 自建域名邮箱，可用于注册不常用网站，邀请码 xczs66
       - name: 账号购买
         icon: fas fa-user-circle
         sites:
@@ -145,10 +157,26 @@ categories:
             url: https://www.dnshe.com/
             icon: fas fa-link
             description: 可以注册五个免费域名，邀请码是 FJ43DF00C4
+          - name: ZZ.CD
+            url: https://vps8.zz.cd/
+            icon: fas fa-globe
+            description: 免费域名
+          - name: L53
+            url: https://customer.l53.net/
+            icon: fas fa-globe
+            description: 白给一年域名
+          - name: DigitalPlat Domain
+            url: https://dash.domain.digitalplat.org/signup?ref=JmM1Z8EOM3
+            icon: fas fa-globe-asia
+            description: 需要 GitHub 账号注册满 180 天以上
           - name: GitHub Pages
             url: https://pages.github.com/
             icon: fab fa-github
             description: 免费静态站托管
+          - name: Gname
+            url: https://www.gname.com/
+            icon: fas fa-link
+            description: 又是免费域名
           - name: Namecheap
             url: https://www.namecheap.com/
             icon: fas fa-link
