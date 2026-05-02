@@ -134,6 +134,10 @@ categories:
             url: https://www.namecheap.com/
             icon: fas fa-link
             description: 域名注册与管理
+          - name: Spaceship
+            url: https://www.spaceship.com/zh/domain-search/?query=&beast=false&tab=domains
+            icon: fas fa-globe-asia
+            description: 6 到 9 位数的 xyz 域名一年 5 块，支持支付宝付款
           - name: Cloudflare Pages
             url: https://pages.cloudflare.com/
             icon: fas fa-cloud
