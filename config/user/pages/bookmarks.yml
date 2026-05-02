@@ -86,6 +86,13 @@ categories:
             url: https://mail.proton.me/
             icon: fas fa-shield-alt
             description: 瑞士端对端隐私邮箱
+      - name: 账号购买
+        icon: fas fa-user-circle
+        sites:
+          - name: YM158
+            url: https://www.ym158.com?from=1966
+            icon: fas fa-shopping-bag
+            description: 一个卖邮箱的平台
       - name: AI 聚合
         icon: fas fa-microchip
         sites:
