@@ -150,6 +150,18 @@ categories:
             url: https://xc-blog.ccwu.cc/
             icon: fas fa-pen-nib
             description: 记录折腾、教程和一些奇思妙想的个人博客
+          - name: PDF 工具站
+            url: https://pdf.xcfake150.asia/zh/tools/edit-pdf/
+            icon: fas fa-file-pdf
+            description: 自建的 PDF 处理网站
+          - name: 在线音乐
+            url: https://music.xcfake150.asia/
+            icon: fas fa-music
+            description: 自建在线音乐，就是经常超时
+          - name: 域名邮箱
+            url: https://mail.xcfake150.asia/inbox
+            icon: fas fa-envelope
+            description: 自建域名邮箱，想用的记得来要邀请码
       - name: 域名相关
         icon: fas fa-globe
         sites:
