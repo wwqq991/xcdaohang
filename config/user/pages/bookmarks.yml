@@ -186,6 +186,14 @@ categories:
             url: https://box.xcfake150.asia
             icon: fas fa-box-open
             description: 文件快递柜
+          - name: 文言文加密
+            url: https://moyue.xcfake150.asia
+            icon: fas fa-user-secret
+            description: 一个文言文语言加密网站
+          - name: 在线小说阅读
+            url: https://reader.xcfake150.asia/#/
+            icon: fas fa-book-open
+            description: 在线小说阅读
       - name: 域名相关
         icon: fas fa-globe
         sites:
