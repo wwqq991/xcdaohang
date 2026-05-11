@@ -178,6 +178,14 @@ categories:
             url: https://20170612.xyz/
             icon: fas fa-heart
             description: 一个纪念网站
+          - name: 在线白板
+            url: https://draw.xcfake150.asia
+            icon: fas fa-pencil-ruler
+            description: 自建在线白板
+          - name: 文件快递柜
+            url: https://box.xcfake150.asia
+            icon: fas fa-box-open
+            description: 文件快递柜
       - name: 域名相关
         icon: fas fa-globe
         sites:
