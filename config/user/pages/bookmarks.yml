@@ -162,6 +162,22 @@ categories:
             url: https://mail.xcfake150.asia/inbox
             icon: fas fa-envelope
             description: 自建域名邮箱，想用的记得来要邀请码
+          - name: 怀旧小游戏
+            url: https://dos.xcfake150.top/
+            icon: fas fa-gamepad
+            description: 怀旧小游戏
+          - name: 网盘搜索
+            url: https://panshou.xcfake150.asia/
+            icon: fas fa-search
+            description: 自建网盘搜索
+          - name: 文件转换
+            url: https://file.xcfake150.asia/
+            icon: fas fa-exchange-alt
+            description: 自建文件转换
+          - name: 20170612.xyz
+            url: https://20170612.xyz/
+            icon: fas fa-heart
+            description: 一个纪念网站
       - name: 域名相关
         icon: fas fa-globe
         sites:
