@@ -194,6 +194,10 @@ categories:
             url: https://reader.xcfake150.asia/#/
             icon: fas fa-book-open
             description: 在线小说阅读
+          - name: 在线翻译
+            url: https://fanyi.xcfake150.asia/
+            icon: fas fa-language
+            description: 在线翻译
       - name: 域名相关
         icon: fas fa-globe
         sites:
