@@ -128,6 +128,10 @@ categories:
             url: https://cloud.siliconflow.cn/i/3IdL5FPU
             icon: fas fa-microchip
             description: 国内 AI 聚合平台，注册实名后白给额度
+          - name: Right Codes
+            url: https://www.right.codes/register?aff=0821da91
+            icon: fas fa-code
+            description: 很便宜的主流中转站，主要是 Claude、Gemini、DeepSeek
       - name: IP 与网络
         icon: fas fa-network-wired
         sites:
