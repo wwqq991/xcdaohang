@@ -132,6 +132,10 @@ categories:
             url: https://www.right.codes/register?aff=0821da91
             icon: fas fa-code
             description: 很便宜的主流中转站，主要是 Claude、Gemini、DeepSeek
+          - name: FreeModel
+            url: https://freemodel.dev/invite/FRE-54186560
+            icon: fas fa-gem
+            description: 新用户注册就送 $300 额度，免信用卡，FRE-5.4/5.5 旗舰模型，OpenAI 兼容接口
       - name: IP 与网络
         icon: fas fa-network-wired
         sites:
