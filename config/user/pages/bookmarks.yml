@@ -252,6 +252,10 @@ categories:
             url: https://www.bybitglobal.com/invite?ref=BDGMXJD
             icon: fas fa-coins
             description: 适合订阅海外服务
+          - name: Roogoo
+            url: https://wap.roogoo.store/register?inviteCode=q6ebn2
+            icon: fas fa-credit-card
+            description: 免费开卡平台，支持开通虚拟信用卡，适合订阅海外服务
       - name: 拼车代充
         icon: fas fa-coins
         sites:
