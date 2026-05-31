@@ -13,7 +13,7 @@
 
 > 基于 [MeNav](https://github.com/rbetree/menav)，但书签是我一个个加上去的，不是机器导入糊弄人的。
 
-[在线访问 >>](https://xcdaohang.com)
+[在线访问 >>](https://dh.xcfake150.asia/)
 
 ## 我为什么要搞这个
 
