@@ -6,54 +6,30 @@
   </p>
 </div>
 
-[![GitHub](https://img.shields.io/badge/GitHub-西辞的导航站-181717?logo=github)](https://github.com/wwqq991/xcdaohang)
+[![GitHub](https://img.shields.io/badge/GitHub-xcdaohang-181717?logo=github)](https://github.com/wwqq991/xcdaohang)
 [![License](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](https://www.gnu.org/licenses/agpl-3.0.html)
-[![GitHub contributors](https://img.shields.io/github/contributors/wwqq991/xcdaohang)](https://github.com/wwqq991/xcdaohang/graphs/contributors)
 
 📋 静态一键部署 | 🔖 人工精选书签 | 🧩 自建服务全家桶
 
-> 基于 [MeNav](https://github.com/rbetree/menav) 的 fork，但书签内容是亲手一个个筛出来的。这里没有机器搬运的信息垃圾，只有真正用过、觉得值得分享的网站和服务。
+> 基于 [MeNav](https://github.com/rbetree/menav)，但书签是我一个个加上去的，不是机器导入糊弄人的。
 
 [在线访问 >>](https://xcdaohang.com)
 
-## 这个导航站有什么不一样？
+## 我为什么要搞这个
 
-市面上导航站很多，但这个有点特别——**它是你逛一个 VPS/AI 折腾佬的收藏夹**。
+其实就是当书签在用。收藏夹里的网站越来越多，浏览器书签栏不够塞，正好 MeNav 这个项目能解决这个问题，我就 fork 过来自己维护了。
 
-### 🎯 人工精选，不是机器搬运
+## 这里都有些啥
 
-每个链接都是亲手加上去的，描述都是真实使用体验。比如 VPS 服务商会直接说"便宜机器几乎无售后"、"性价比高的缺货"，不藏着掖着。
+**VPS 和云服务**——我平时喜欢折腾便宜的 VPS，踩过不少坑也捡过不少漏。每个链接都是真实用过的，不好用的我会直接说，比如"便宜机器几乎无售后"、"性价比高的常年缺货"。不吹不黑。
 
-### 🤖 AI 工具链重度玩家视角
+**AI API 中转站**——OpenRouter、SiliconFlow、Right Codes……我试过的 AI 聚合/中转平台都放这儿了，有便宜的、有稳定的、有送免费额度的，看需求选。
 
-从海外聚合（OpenRouter）到国产中转（SiliconFlow、Right Codes），从免费额度到低价逆向渠道——一个 LLM API 折腾重度用户的完整收藏夹。
+**自建小服务**——邮箱、音乐、PDF 工具、在线白板、文件快递柜、DOS 怀旧游戏……都是自己搭在廉价 VPS 上的，能用就行，够用就好。
 
-### 🧩 自建服务全家桶
+**省钱相关**——免费域名、低价 VPS、拼车代充、eSIM 流量卡。我对便宜货没有抵抗力。
 
-域名邮箱、在线音乐、PDF 工具、网盘搜索、文件快递柜、在线白板、DOS 怀旧游戏……全都是自建部署在廉价 VPS 上的实用服务，一条 TG 链接就能进群聊。
-
-### 💰 省钱是第一生产力
-
-VPS 年付 6.5 刀起、免费域名、拼车代充、eSIM 流量卡——这个导航站本质上是一个常年混迹各种"低价好货"圈子的人的精选手册。
-
-### 🔄 持续更新
-
-书签不定期更新，好的留下来，不好用的下掉。更多实时分享在 Telegram 群里。
-
----
-
-## 预览
-
-> 截图待更新
-
-## 技术栈
-
-- HTML5 + CSS3
-- JavaScript (原生)
-- Handlebars 模板引擎
-- Google Favicon API + Font Awesome 图标
-
-## 快速开始
+## 怎么用
 
 ```bash
 # 克隆
@@ -63,9 +39,7 @@ cd xcdaohang
 # 装依赖
 npm install
 
-# 配置（见下方说明）
-# 编辑 config/user/site.yml 等文件
-
+# 改配置（编辑 config/user/ 下的文件）
 # 启动开发服务器
 npm run dev
 
@@ -73,20 +47,6 @@ npm run dev
 npm run build
 ```
 
-构建后的文件在 `dist` 目录。
+## 关于这个项目
 
-## 项目结构
-
-```text
-menav/
-├── src/         # 生成器、书签处理、前端脚本
-├── templates/   # Handlebars 模板
-├── config/      # 模块化配置
-│   ├── _default/    # 默认配置
-│   └── user/        # 用户配置（优先级最高）
-├── assets/      # 静态资源
-├── bookmarks/   # 书签导入相关
-└── dist/        # 构建产物
-```
-
-> 本项目基于 [MeNav](https://github.com/rbetree/menav) 构建，感谢原作者的优秀工作。详细的部署、配置、模板、书签导入等文档参见原项目 README。
+这其实是 [MeNav](https://github.com/rbetree/menav) 的 fork，原作者写得很好，部署、配置、模板这些你要是感兴趣可以去看原项目的文档，比我写得好。
