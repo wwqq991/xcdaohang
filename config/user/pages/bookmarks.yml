@@ -256,6 +256,10 @@ categories:
             url: https://wap.roogoo.store/register?inviteCode=q6ebn2
             icon: fas fa-credit-card
             description: 免费开卡平台，支持开通虚拟信用卡，适合订阅海外服务
+          - name: Wise
+            url: https://wise.com/invite/arhc/zianw49
+            icon: fas fa-money-bill-wave
+            description: 多币种账户，支持全球收付款，适合接收海外收益
       - name: 拼车代充
         icon: fas fa-coins
         sites:
