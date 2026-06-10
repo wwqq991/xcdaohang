@@ -136,6 +136,10 @@ categories:
             url: https://freemodel.dev/invite/FRE-54186560
             icon: fas fa-gem
             description: 新用户注册就送 $300 额度，免信用卡，FRE-5.4/5.5 旗舰模型，OpenAI 兼容接口
+          - name: ModelGate
+            url: https://modelgate.app/register?aff=iwy8
+            icon: fas fa-door-open
+            description: 注册送 $15，每日签到送 $3
       - name: IP 与网络
         icon: fas fa-network-wired
         sites:
