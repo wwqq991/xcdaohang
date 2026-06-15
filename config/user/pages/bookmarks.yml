@@ -63,6 +63,10 @@ categories:
             url: https://www.meiguodizhi.com/
             icon: fas fa-map-marked-alt
             description: 如果你需要一个美国地址的话
+          - name: 英国地址生成器
+            url: https://real-generator.com/zh/address/united-kingdom
+            icon: fas fa-map-marked-alt
+            description: 真实 UK 邮编
           - name: IP GeoAddress Generator
             url: https://ip-geoaddress-generator.pages.dev/
             icon: fas fa-map-pin
