@@ -35,10 +35,10 @@
     "rss-parser": "^3.13.0"
   },
   "devDependencies": {
-    "esbuild": "^0.28.0",
+    "esbuild": "^0.28.1",
     "husky": "^9.1.7",
     "lint-staged": "^16.4.0",
-    "prettier": "^3.8.3",
+    "prettier": "^3.8.4",
     "serve": "^14.2.6"
   },
   "overrides": {
