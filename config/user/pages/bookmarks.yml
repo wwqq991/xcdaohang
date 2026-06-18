@@ -91,6 +91,10 @@ categories:
             url: https://codsim.cc?reference=623547269
             icon: fas fa-sim-card
             description: 一个卖 eSIM 流量卡的，出国旅行可以看看
+          - name: gg-keeper
+            url: https://dennischancs.github.io/gg-keeper/
+            icon: fas fa-sim-card
+            description: 0.02 英镑保号 giffgaff
           - name: KiteSIM
             url: https://h5.kitesim.co/register/?invite=ZIWLSZ
             icon: fas fa-sim-card
