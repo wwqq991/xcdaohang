@@ -129,6 +129,10 @@ categories:
             url: https://www.ym158.com?from=1966
             icon: fas fa-shopping-bag
             description: 一个卖邮箱的平台
+          - name: 账号鸭
+            url: https://www.zhanghaoya.com/r/29312
+            icon: fas fa-store
+            description: 各类账号代购，品类挺全
       - name: AI 聚合
         icon: fas fa-microchip
         sites:
