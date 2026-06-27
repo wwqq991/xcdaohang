@@ -320,6 +320,15 @@ function copyStaticFiles(config) {
       if (isVerbose() && e && e.stack) console.error(e.stack);
     }
   }
+
+  // 复制 Monetag Service Worker 到站点根目录
+  try {
+    if (fs.existsSync('sw.js')) {
+      fs.copyFileSync('sw.js', 'dist/sw.js');
+    }
+  } catch (e) {
+    log.warn('复制 sw.js 失败', { message: e && e.message ? e.message : String(e) });
+  }
 }
 
 // 主函数
