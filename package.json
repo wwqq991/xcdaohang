@@ -31,7 +31,7 @@
   "dependencies": {
     "handlebars": "^4.7.9",
     "js-yaml": "^4.2.0",
-    "markdown-it": "^14.3.0",
+    "markdown-it": "^15.0.0",
     "rss-parser": "^3.13.0"
   },
   "devDependencies": {
