@@ -29,7 +29,7 @@
   "author": "Your Name",
   "license": "AGPL-3.0-only",
   "dependencies": {
-    "handlebars": "^4.7.9",
+    "handlebars": "^4.7.10",
     "js-yaml": "^4.2.0",
     "markdown-it": "^14.3.0",
     "rss-parser": "^3.13.0"
