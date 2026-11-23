@@ -39,7 +39,7 @@
     "husky": "^9.1.7",
     "lint-staged": "^16.4.0",
     "prettier": "^3.10.1",
-    "serve": "^14.2.7"
+    "serve": "^14.2.8"
   },
   "overrides": {
     "brace-expansion": "1.1.12"
